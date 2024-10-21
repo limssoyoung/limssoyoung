@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <!--
-**limssoyoung/limssoyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**limssoyoung/limssoyoung** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=임소영-11)](https://www.codenary.co.kr/user-profile/detail/임소영-11?github_ride=true&utm_source=github)
